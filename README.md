@@ -1,6 +1,6 @@
 # k8s-ab
 
-Kubernetes application running Apache Benchmark using image devth/alpine-bench (https://github.com/devth/alpine-bench)
+Kubernetes application running Apache Benchmark using image [devth/alpine-bench](https://github.com/devth/alpine-bench).
 
 ## Deployment
 
