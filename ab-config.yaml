@@ -5,5 +5,5 @@ metadata:
 data:
   concurrency: "100" # Number of multiple requests to make at a time
   requests: "50000"  # Number of requests to perform
-  timeout: "2"       # Seconds to max. wait for each response. Default is 30 seconds.
+  timeout: "2"       # Seconds to maximum wait for each response
   url: http://nginx/ # URL to which requests will be sent
