@@ -8,7 +8,7 @@ To deploy the application in a Kubernetes cluster run the following commands:
 
 ```bash
 kubectl create -f ab-config.yaml
-kubectl create -f ab-yaml
+kubectl create -f ab.yaml
 ```
 ## Configuration
 
